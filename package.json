@@ -1,0 +1,27 @@
+{
+  "name": "twit-bot",
+  "version": "0.0.1",
+  "description": "Posting tweets using the Twitter API",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TexasBullet26/twit-bot.git"
+  },
+  "keywords": [
+    "twit-bot",
+    "twitter",
+    "twit"
+  ],
+  "author": "Glenn Lanzer III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TexasBullet26/twit-bot/issues"
+  },
+  "homepage": "https://github.com/TexasBullet26/twit-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.10"
+  }
+}
