@@ -14,6 +14,15 @@ Make a program that will run every x minutes or x hours and post a tweet automat
 
 Use npm (node package manager) to spin up a larger Node project and use a Twitter package to connect to the Twitter API.
 
+## To run as is
+---
+1. [Clone this repository](https://github.com/TexasBullet26/twit-bot)
+    * Must have Git installed and in your PATH
+2. Make sure you have Node.js installed and in your PATH
+3. In your terminal, go to the location where you cloned this repository
+3. Type `npm start` in your terminal
+    * This will run `node bot.js` for you, which will spit information from Twitter to your console from the conditions made in `bot.js`
+
 ### Things to do before continuing
 ---
   * Download Node.js
