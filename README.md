@@ -52,5 +52,4 @@ A `package.json` is a file that holds your projects "settings", "configuration",
 
 [Glenn Lanzer III](https://TexasBullet26.github.io)
 
-Thank you to Daniel Shiffman for explaining everything so well in his videos. You can find him on [Youtube]() and [Github](https://github.com/shiffman).
 Thank you to [ttezel](https://github.com/ttezel/twit) for creating the twit package.
